@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.myPanel {
+  display: flex;
+}
+
+.A {
+  display: flex;
+  flex-direction: column;
+}
+
+.B {
+  color: #555;
+}
